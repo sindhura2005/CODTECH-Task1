@@ -1,1 +1,24 @@
-
+NAME:K SAI SINDHURA
+COMPANY:CODTECH IT SOLUTIONS
+ID:CT08DS2416
+DOMAIN:MACHINE LEARNING
+DURATION:JUNE 15 TO JULY 15 2024
+MENTOR:NEELA SANTHU
+OVER VIEW OF THE PROJECT
+Objectives:
+1)Load and Understand the Dataset:
+Familiarize with the dataset and its features.
+Identify the target variable and features for prediction.
+2)Preprocess the Data:
+Handle missing values.
+Encode categorical variables.
+Normalize or standardize the data if necessary.
+Key Activities:
+1) Load and Understand the Dataset:
+Load the dataset using a suitable library (e.g., pandas for CSV files, sklearn for built-in datasets).
+Display the first few rows of the dataset to understand its structure.
+Examine the dataset for any missing values and the types of features (numeric, categorical).
+2. Preprocess the Data:
+Handling Missing Values: Decide on a strategy to handle missing values (e.g., imputation, removal).
+Encoding Categorical Variables: Use one-hot encoding or label encoding for categorical features.
+Normalization/Standardization: Scale the features to ensure they are on a similar scale, if necessary.
